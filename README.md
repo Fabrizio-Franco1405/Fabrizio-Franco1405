@@ -1,9 +1,11 @@
 <!--![logo](https://raw.githubusercontent.com/supuna97/supuna97/main/supun-new.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">-->
 
-<h1 align="center">Hi 👋, I'm Fabrizio Franco</h1>
-<h3 align="center">A passionate Programmer from Venezuela</h3>
-<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
+<h1 align="center">Hola 👋, Soy Fabrizio Franco</h1>
+<h3 align="center">Un apasionado Desarrollador de Venezuela</h3>
+<p align="center">Desde mis primeros años, me ha fascinado el funcionamiento interno de las máquinas y la complejidad que yace detrás de cada proceso. Me especializo en el desarrollo a bajo nivel, explorando cómo los sistemas operativos, la administración de memoria y la optimización del rendimiento dan forma al núcleo tecnológico sobre el que descansa el mundo moderno. Este es un campo poco explorado pero esencial: la base invisible que sostiene cada innovación.</p>
+
+<p align="center">Mi objetivo es profundizar en los principios fundamentales de la computación, marcar la diferencia en el mundo del software y dejar una huella significativa en el camino de quienes buscan comprender y construir tecnología desde sus raíces. 🛠️</p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=Fabrizio-Franco1405&label=Profile%20views&color=0e75b6&style=flat" alt="fabrizio franco" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
@@ -32,22 +34,22 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **My mint**
+- 🔭 Actualmente estoy trabajando en **Optimización de sistemas de bajo nivel**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 Estoy aprendiendo **Seguridad en sistemas y optimización de compiladores**
 
 <!--- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)-->
 
-- 💬 Ask me about **C#, C++, PHP and Rust**
+- 💬 Pregúntame sobre **C, C++, Rust, ensamblador y sistemas operativos**
 
-- 📫 How to reach me **fabrizio.software.dev@gmail.com**
+- 📫 Puedes contactarme en **fabrizio.software.dev@gmail.com**
 
 <!--- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)-->
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Dato curioso **Me apasiona exprimir cada ciclo de CPU al máximo**
 
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabrizio" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fabrizio" height="30" width="40" /></a>
@@ -59,7 +61,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 
 - Backend
 <p align="left">
@@ -114,7 +116,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
+<h3 align="left">Trofeos:</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
@@ -130,7 +132,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Mis estadísticas de GitHub:</h3>
 <div align="center">
  
 ![Fabrizio-Franco1405 GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabrizio-Franco1405\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
@@ -143,7 +145,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Activity:</h3>
+<h3 align="left">Actividad:</h3>
 
 ![Fabrizio-Franco1405 Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabrizio-Franco1405&custom_title=Fabrizio's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
@@ -160,4 +162,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>-->
 
 <br>
-<p align="right" > Created with 🧡 by <a href="">Fabrizio Franco</a></p>
+<p align="right" > Creado con 🧡 por <a href="">Fabrizio Franco</a></p>
