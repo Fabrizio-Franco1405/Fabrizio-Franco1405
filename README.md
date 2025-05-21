@@ -40,7 +40,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)-->
 
-- 💬 Pregúntame sobre **C, C++, Rust, ensamblador y sistemas operativos**
+- 💬 Pregúntame sobre **C, C++, Rust, Ensamblador y Sistemas Operativos**
 
 - 📫 Puedes contactarme en **fabrizio.software.dev@gmail.com**
 
@@ -63,10 +63,19 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
+- Núcleo (Bajo nivel)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,cpp" />
+    <!--<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" />-->
+  </a>
+</p>
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,cs,php,nodejs" />
+    <img src="https://skillicons.dev/icons?i=cs,php,nodejs" />
   </a>
 </p>
 
@@ -87,21 +96,30 @@
 - Multiplatform
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,dart,flutter" />
+    <img src="https://skillicons.dev/icons?i=tauri,dart,flutter,androidstudio" />
   </a>
 </p>
+
+<!-- Sistemas y Drivers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Embedded-00B0D1?style=for-the-badge&logo=embeddedc&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bare_Metal-000000?style=for-the-badge" />
+  </a>
+</p>-->
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,visualstudio,postman,powershell" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,visualstudio,postman,powershell,bash" />
   </a>
 </p>
 
