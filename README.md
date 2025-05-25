@@ -13,21 +13,24 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <!--<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />-->
+ <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+ <!--<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />-->
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
@@ -55,80 +58,43 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fabrizio" height="30" width="40" /></a>
 <a href="https://www.facebook.com/fabrizio.franco.882256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fabrizio" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fabrizio_franco14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig" height="30" width="40" /></a>
-<!--<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>-->
 </p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+### **🛠️ Tecnologías y herramientas**
+### 🏗️ **Desarrollo de Sistemas y Kernels**
+![Linux Kernel](https://img.shields.io/badge/Linux_Kernel-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Bare Metal](https://img.shields.io/badge/Bare_Metal-FF4500?style=for-the-badge&logo=linux&logoColor=white)
+![Linux From Scratch](https://img.shields.io/badge/Linux_From_Scratch-006600?style=for-the-badge&logo=linux&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-EE2222?style=for-the-badge&logo=qemu&logoColor=white)
+![GRUB](https://img.shields.io/badge/GRUB-0096A0?style=for-the-badge&logo=linux&logoColor=white)
+![Xen](https://img.shields.io/badge/Xen-333399?style=for-the-badge&logo=xen&logoColor=white)
 
-- Núcleo (Bajo nivel)
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp" />
-    <!--<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-    <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white" />-->
-  </a>
-</p>
+### 🔬 **Compiladores y Optimizadores**
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gcc&logoColor=white)
+![Clang](https://img.shields.io/badge/Clang-004482?style=for-the-badge&logo=clang&logoColor=white)
+![Musl](https://img.shields.io/badge/Musl-0078D4?style=for-the-badge&logo=linux&logoColor=white)
+![Glibc](https://img.shields.io/badge/Glibc-003DA6?style=for-the-badge&logo=linux&logoColor=white)
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,php,nodejs" />
-  </a>
-</p>
+### 🛠️ **Lenguajes para Sistemas**
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,sass,bootstrap,tailwind,materialui" />
-  </a>
-</p>
+### 🏗️ **Virtualización y Contenedores**
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF4500?style=for-the-badge&logo=linux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0071C5?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-</p>
-
-- Multiplatform
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tauri,dart,flutter,androidstudio" />
-  </a>
-</p>
-
-<!-- Sistemas y Drivers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/Kernel-000000?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Embedded-00B0D1?style=for-the-badge&logo=embeddedc&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bare_Metal-000000?style=for-the-badge" />
-  </a>
-</p>-->
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,visualstudio,postman,powershell,bash" />
-  </a>
-</p>
-
-- OS
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-  </a>
-</p>
+### 🔬 **Depuración y Optimización**
+![GDB](https://img.shields.io/badge/GDB-F80000?style=for-the-badge&logo=gnu&logoColor=white)
+![Valgrind](https://img.shields.io/badge/Valgrind-663399?style=for-the-badge&logo=linux&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Make](https://img.shields.io/badge/Make-3C3C3C?style=for-the-badge&logo=linux&logoColor=white)
 
 <br/>
 
@@ -150,7 +116,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Mis estadísticas de GitHub:</h3>
+<h3 align="left">🔥 Mis estadísticas de GitHub:</h3>
 <div align="center">
  
 ![Fabrizio-Franco1405 GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabrizio-Franco1405\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
@@ -163,7 +129,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Actividad:</h3>
+<h3 align="left">🚀 Actividad:</h3>
 
 ![Fabrizio-Franco1405 Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fabrizio-Franco1405&custom_title=Fabrizio-Franco1405's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
