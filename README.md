@@ -37,9 +37,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 Actualmente estoy trabajando en **Optimización de sistemas de bajo nivel**
+- 🔭 Actualmente trabajo en la optimización de sistemas de bajo nivel, buscando mejorar el rendimiento y la eficiencia en entornos críticos.**
 
-- 🌱 Estoy aprendiendo **Seguridad en sistemas y optimización de compiladores**
+- 🌱 Me encuentro en constante aprendizaje, profundizando en seguridad de sistemas y optimización de compiladores para desarrollar software más robusto y eficiente.**
 
 <!--- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)-->
 
@@ -49,7 +49,7 @@
 
 <!--- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)-->
 
-- ⚡ Dato curioso **Me apasiona exprimir cada ciclo de CPU al máximo**
+- ⚡ Dato curioso: Disfruto explorar los límites del hardware y el software para encontrar soluciones que desafíen las convenciones y optimicen el rendimiento al máximo.
 
 <br>
 <h3 align="left">Contactame:</h3>
